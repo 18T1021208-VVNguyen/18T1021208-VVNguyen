@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @18T1021208-VVNguyen
 - 👀 Framework : ReactJS , Spring boot 
 - 🌱 Học Tại: Đại Học Khoa Học Huế
-- 💞️ Làm việc tại : :))
+- 💞️ 
 - 📫 
 
 <!---
